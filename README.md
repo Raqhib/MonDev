@@ -1,4 +1,10 @@
-## Hi there 👋
+## Halo semua 👋
+saya **Raqhib Ataillah**<br>
+
+Saya Tinggal di Makassar dan Seorang Mahasiswa Semester 5 Universitas Muslim Indonesia. 
+sekarang saya Mengikuti program Studi Independen Kampus Merdeka Di Bangkit Academy. 
+
+Jika Kamu Tertarik Berkenalan Dengan ku, Silahkan Ikut akun [LinkedIn](www.linkedin.com/in/raqhib-ataillah-654b32227) ku ya. 
 
 <!--
 **Raqhib/Raqhib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

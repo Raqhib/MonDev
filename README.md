@@ -1,10 +1,67 @@
-## Halo semua 👋
+<!-- ## Halo semua 👋
 saya **Raqhib Ataillah**<br>
 
 Saya Tinggal di Makassar dan Seorang Mahasiswa Semester 5 Universitas Muslim Indonesia. 
 sekarang saya Mengikuti program Studi Independen Kampus Merdeka Di Bangkit Academy. 
 
-Jika Kamu Tertarik Berkenalan Dengan ku, Silahkan Ikut akun [LinkedIn](www.linkedin.com/in/raqhib-ataillah-654b32227) ku ya. 
+Jika Kamu Tertarik Berkenalan Dengan ku, Silahkan Ikut akun [LinkedIn](www.linkedin.com/in/raqhib-ataillah-654b32227) ku ya. -->
+
+<h1 align="center">Hi 👋🏻, I'm Raqhib Ataillah</h1>
+<h3 align="center">I'm a Student and Developer!</h3>
+
+<!-- - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game) -->
+
+- 💻 I’m currently learning about **Mobile Development**
+
+- 🤜🏻🤛🏻 I’m looking to collaborate on **Android based projects**
+
+- 💬 Ask me about **Html, CSS, JavaScript, Kotlin, xml, Retrofit2**
+
+- 📧 How to reach me? **Connect to me via Email [Raqhib Ataillah](mailto:raqhib.ataillah@gmail.com)**
+
+- ⚡ Fun fact: **I love thrifting**
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/raqhib-ataillah-654b32227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="raqhib-ataillah-654b32227" height="30" width="40" /> </a>
+  <a href="https://www.instagram.com/raqhib__/" target="blank"><img align="center" src="https://icons8.com/icon/nj0Uj45LGUYh/instagram" alt="raqhib__" height="30" width="40" /> </a>
+<!--  <a href="https://www.linkedin.com/in/raqhib-ataillah-654b32227/" target="_blank"> 
+        <code>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"/>
+        </code>
+</a>
+<a href="https://www.instagram.com/raqhib__/" target="_blank"> 
+        <code>
+          <img src="https://icons8.com/icon/nj0Uj45LGUYh/instagram" alt="Instagram" width="40" height="40"/>
+        </code>
+</a>
+-->
+  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></code> 
+    </a>  
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></code>  
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></code>  
+    </a>
+    <a href="https://kotlinlang.org/" target="_blank"> 
+        <code><img src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000" alt="Kotlin" 
+                width="40" height="40"/></code>  
+    </a>
+  <a href="https://developer.android.com/studio?hl=id" target="_blank"> 
+        <code><img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" alt="AndroidStudio" 
+                width="40" height="40"/></code>  
+    </a>
+    <a href="https://git-scm.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" 
+                width="40" height="40"/></code>  
+    </a>
+</p>
+
 
 <p align="left">
 <a href="https://github.com/Raqhib">
@@ -13,17 +70,3 @@ Jika Kamu Tertarik Berkenalan Dengan ku, Silahkan Ikut akun [LinkedIn](www.linke
 </a>
 </p>
 
-<!--
-**Raqhib/Raqhib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

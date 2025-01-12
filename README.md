@@ -11,6 +11,10 @@ Jika Kamu Tertarik Berkenalan Dengan ku, Silahkan Ikut akun [LinkedIn](www.linke
 
 <!-- - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game) -->
 
+<!--
+### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=manumanoj0010&label=Profile%20views&color=0e75b6&style=flat" alt="manumanoj0010" /> ![GitHub followers](https://img.shields.io/github/followers/manumanoj0010) ![GitHub User's stars](https://img.shields.io/github/stars/manumanoj0010) -->
+
+
 - 💻 I’m currently learning about **Mobile Development**
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **Android based projects**
@@ -23,9 +27,15 @@ Jika Kamu Tertarik Berkenalan Dengan ku, Silahkan Ikut akun [LinkedIn](www.linke
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
+  
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/raqhib-ataillah-654b32227/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/raqhib__/)](https://www.instagram.com/raqhib__/) 
+
+</p>
+
+<!--
 <a href="https://www.linkedin.com/in/raqhib-ataillah-654b32227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="raqhib-ataillah-654b32227" height="30" width="40" /> </a>
   <a href="https://www.instagram.com/raqhib__/" target="blank"><img align="center" src="https://icons8.com/icon/nj0Uj45LGUYh/instagram" alt="raqhib__" height="30" width="40" /> </a>
-<!--  <a href="https://www.linkedin.com/in/raqhib-ataillah-654b32227/" target="_blank"> 
+  <a href="https://www.linkedin.com/in/raqhib-ataillah-654b32227/" target="_blank"> 
         <code>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"/>
         </code>
@@ -36,6 +46,7 @@ Jika Kamu Tertarik Berkenalan Dengan ku, Silahkan Ikut akun [LinkedIn](www.linke
         </code>
 </a>
 -->
+
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
